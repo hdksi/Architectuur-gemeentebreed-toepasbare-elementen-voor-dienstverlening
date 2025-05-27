@@ -8,9 +8,9 @@
       id="id-fa41d5b9c0a24d98a80daa6a450766c5"
       textPosition="1">
     <bounds
-        x="311"
-        y="179"
-        width="131"
+        x="264"
+        y="160"
+        width="129"
         height="81"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -21,9 +21,9 @@
       id="id-8bcad6f432154b0bbb90fda8de8d646c"
       textPosition="1">
     <bounds
-        x="470"
-        y="179"
-        width="131"
+        x="416"
+        y="160"
+        width="129"
         height="81"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -34,9 +34,9 @@
       id="id-b3dbeec4b4104563848d131de41fd065"
       textPosition="1">
     <bounds
-        x="630"
-        y="179"
-        width="131"
+        x="568"
+        y="160"
+        width="129"
         height="81"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -47,9 +47,9 @@
       id="id-aeaf047713bd4484bac040fedb192b3f"
       textPosition="1">
     <bounds
-        x="790"
-        y="179"
-        width="131"
+        x="720"
+        y="160"
+        width="129"
         height="81"/>
     <archimateElement
         xsi:type="archimate:Capability"
