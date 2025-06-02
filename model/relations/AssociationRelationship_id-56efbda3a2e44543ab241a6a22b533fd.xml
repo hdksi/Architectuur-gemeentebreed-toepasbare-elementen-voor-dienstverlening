@@ -6,6 +6,6 @@
       xsi:type="archimate:Capability"
       href="Capability_id-a5d044568566442a98b92c4bcbc71a34.xml#id-a5d044568566442a98b92c4bcbc71a34"/>
   <target
-      xsi:type="archimate:Goal"
-      href="Goal_id-7449a67724d04ce9a03f46646a2b8f7d.xml#id-7449a67724d04ce9a03f46646a2b8f7d"/>
+      xsi:type="archimate:Driver"
+      href="Driver_id-f59b99347db145868ffa2de35d4e5d8c.xml#id-f59b99347db145868ffa2de35d4e5d8c"/>
 </archimate:AssociationRelationship>
