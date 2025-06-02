@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toezicht en handhaving fysieke leefomgeving"
+    id="id-8dc98e91f87b4fa998ca6f32b5522866"
+    documentation="Het uitvoeren van toezicht en handhavingstaken in het ruimtelijke domein.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Object ID"
+      value="3d875d2f-8411-4bad-9427-2b6f7d19b014"/>
+</archimate:BusinessFunction>

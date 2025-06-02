@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren fysieke leefomgeving"
+    id="id-cc5ba856569949f3ac58edce78495b9b"
+    documentation="Het in stand houden van de gemeentelijke openbare ruimte door vervanging of reparatie.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Object ID"
+      value="bd0d751e-88f7-40c2-a7ce-fe6be1a57348"/>
+</archimate:BusinessFunction>
