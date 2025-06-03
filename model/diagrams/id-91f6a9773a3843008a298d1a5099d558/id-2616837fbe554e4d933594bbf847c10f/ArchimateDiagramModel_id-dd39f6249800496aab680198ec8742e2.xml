@@ -619,15 +619,6 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-1570c1f4db534bd8b20d17683e699fe1"
-        source="id-c78b178b09c7464e993632b43a72216a"
-        target="id-6f69292791644c3baf8a7936a14ef71c">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-ad92cd4e3ae948a3824b7e1a6499ee77.xml#id-ad92cd4e3ae948a3824b7e1a6499ee77"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8e0d52b31e9d49319f01c35e1109384d"
         source="id-c78b178b09c7464e993632b43a72216a"
         target="id-56a4cc2344b443eb9c52b2e3835a98b6">
@@ -643,6 +634,15 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-3a4f8ff8cf3f47e5bcf7d09c57c2dcb7.xml#id-3a4f8ff8cf3f47e5bcf7d09c57c2dcb7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1570c1f4db534bd8b20d17683e699fe1"
+        source="id-c78b178b09c7464e993632b43a72216a"
+        target="id-6f69292791644c3baf8a7936a14ef71c">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-ad92cd4e3ae948a3824b7e1a6499ee77.xml#id-ad92cd4e3ae948a3824b7e1a6499ee77"/>
     </sourceConnections>
     <bounds
         x="64"
@@ -749,7 +749,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6f69292791644c3baf8a7936a14ef71c"
-      targetConnections="id-bda7bd95ae6e4a8fa0e2048f5ef0130d id-00a172d614d74ffeb963ca98f67a1144 id-ff5e5bd956484aaaa3e46eb6b1f10c56 id-1570c1f4db534bd8b20d17683e699fe1 id-4a1829f44fa04739a23764b2efa7cae1"
+      targetConnections="id-bda7bd95ae6e4a8fa0e2048f5ef0130d id-00a172d614d74ffeb963ca98f67a1144 id-ff5e5bd956484aaaa3e46eb6b1f10c56 id-4a1829f44fa04739a23764b2efa7cae1 id-1570c1f4db534bd8b20d17683e699fe1"
       textPosition="1">
     <bounds
         x="368"

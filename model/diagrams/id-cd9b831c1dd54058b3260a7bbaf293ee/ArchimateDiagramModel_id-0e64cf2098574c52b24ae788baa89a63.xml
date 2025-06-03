@@ -99,4 +99,28 @@
         xsi:type="archimate:Constraint"
         href="Constraint_id-09db977fa5dd41f592fee1fd01ada886.xml#id-09db977fa5dd41f592fee1fd01ada886"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ac8ff0cabad4419ab6290672b849395a">
+    <bounds
+        x="373"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-31dde498f32c412a84933a58ff0d6e52.xml#id-31dde498f32c412a84933a58ff0d6e52"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b598e43e29ad44a6b3761c7498e541dc">
+    <bounds
+        x="60"
+        y="348"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-b420f121f7af48cda90ac778e69553b2.xml#id-b420f121f7af48cda90ac778e69553b2"/>
+  </children>
 </archimate:ArchimateDiagramModel>
