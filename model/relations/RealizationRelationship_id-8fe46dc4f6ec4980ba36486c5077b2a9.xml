@@ -4,8 +4,8 @@
     name="realiseert"
     id="id-8fe46dc4f6ec4980ba36486c5077b2a9">
   <source
-      xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-e60d4f2b4c544064ba7831bce64e60f8.xml#id-e60d4f2b4c544064ba7831bce64e60f8"/>
+      xsi:type="archimate:Capability"
+      href="Capability_id-eeb0c9fa4a584b73b20cd76f99499d94.xml#id-eeb0c9fa4a584b73b20cd76f99499d94"/>
   <target
       xsi:type="archimate:Goal"
       href="Goal_id-a05c48b2b5074ac1a3f63244e194c97c.xml#id-a05c48b2b5074ac1a3f63244e194c97c"/>

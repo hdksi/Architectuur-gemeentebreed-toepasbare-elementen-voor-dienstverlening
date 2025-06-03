@@ -1,12 +1,12 @@
-<archimate:ServingRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ondersteund"
-    id="id-1c1e1afa03254566b90fef1cf7c7cca4">
+    id="id-e5499fe5741043bbaedc2f85e936c4c1">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-6134ebf0163c47eb82a35b38c87d3f88.xml#id-6134ebf0163c47eb82a35b38c87d3f88"/>
   <target
-      xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-e60d4f2b4c544064ba7831bce64e60f8.xml#id-e60d4f2b4c544064ba7831bce64e60f8"/>
-</archimate:ServingRelationship>
+      xsi:type="archimate:Capability"
+      href="Capability_id-eeb0c9fa4a584b73b20cd76f99499d94.xml#id-eeb0c9fa4a584b73b20cd76f99499d94"/>
+</archimate:AssociationRelationship>

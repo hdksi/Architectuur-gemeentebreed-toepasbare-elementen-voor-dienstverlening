@@ -56,8 +56,8 @@
         width="157"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-e60d4f2b4c544064ba7831bce64e60f8.xml#id-e60d4f2b4c544064ba7831bce64e60f8"/>
+        xsi:type="archimate:Capability"
+        href="Capability_id-eeb0c9fa4a584b73b20cd76f99499d94.xml#id-eeb0c9fa4a584b73b20cd76f99499d94"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -69,8 +69,8 @@
         source="id-44b8d7443bb34e8ba0e59dfa6e95a264"
         target="id-203415ff894a4b4c8b90215d59791d35">
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-1c1e1afa03254566b90fef1cf7c7cca4.xml#id-1c1e1afa03254566b90fef1cf7c7cca4"/>
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-e5499fe5741043bbaedc2f85e936c4c1.xml#id-e5499fe5741043bbaedc2f85e936c4c1"/>
     </sourceConnections>
     <bounds
         x="228"
