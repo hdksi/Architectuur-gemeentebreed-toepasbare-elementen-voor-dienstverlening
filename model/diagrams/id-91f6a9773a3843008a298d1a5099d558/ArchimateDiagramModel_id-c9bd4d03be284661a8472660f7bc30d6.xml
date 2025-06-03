@@ -18,8 +18,8 @@
           href="AssociationRelationship_id-b83eee62f20841c09e200730c13e3342.xml#id-b83eee62f20841c09e200730c13e3342"/>
     </sourceConnections>
     <bounds
-        x="20"
-        y="20"
+        x="16"
+        y="16"
         width="129"
         height="81"/>
     <archimateElement
@@ -76,8 +76,8 @@
           href="SpecializationRelationship_id-acad5fde1a364c0882dd96283e49d2aa.xml#id-acad5fde1a364c0882dd96283e49d2aa"/>
     </sourceConnections>
     <bounds
-        x="170"
-        y="180"
+        x="16"
+        y="120"
         width="129"
         height="81"/>
     <archimateElement

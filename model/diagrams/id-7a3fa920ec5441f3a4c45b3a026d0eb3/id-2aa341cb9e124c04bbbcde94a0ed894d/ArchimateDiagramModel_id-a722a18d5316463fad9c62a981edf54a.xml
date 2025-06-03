@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5. Ontvangen besluit en beschikking"
+    id="id-a722a18d5316463fad9c62a981edf54a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-559367923b1c4e838d8be7ab284f9796"
+      textPosition="1">
+    <bounds
+        x="336"
+        y="264"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-3d173955fa374ea781a28ed636c818b6.xml#id-3d173955fa374ea781a28ed636c818b6"/>
+  </children>
+</archimate:ArchimateDiagramModel>

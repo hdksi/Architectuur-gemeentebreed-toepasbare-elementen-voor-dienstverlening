@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3. Overzicht verkrijgen"
+    id="id-39b9fd652ea7464c97215a57c955bfcc">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7be007ce85804e6dbe9acc066e0206db"
+      textPosition="1">
+    <bounds
+        x="330"
+        y="385"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-5dec137bd9d94ac794ee9d474b643220.xml#id-5dec137bd9d94ac794ee9d474b643220"/>
+  </children>
+</archimate:ArchimateDiagramModel>

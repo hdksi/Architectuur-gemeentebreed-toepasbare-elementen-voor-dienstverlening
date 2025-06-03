@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New ArchiMate View"
+    id="id-5fc0037fb9ad40678fe313f53740fd5e">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-07e0244d89d442b8a3ce2f372bd17fbc"
+      textAlignment="1"
+      content="Nu: niet verbonden, resultaat niet gemeten. Kans: samenhang bieden, ' bewijs' leveren voor waarde (klantteverdenheidsonderzoek/medewerkerstevredenheidsonderzoek (omnichannel).">
+    <bounds
+        x="490"
+        y="336"
+        width="185"
+        height="129"/>
+  </children>
+</archimate:ArchimateDiagramModel>

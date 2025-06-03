@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2. Aanvragen en indienen"
+    id="id-35a1c4a8122745ed9f33d060fa36244c"
+    documentation="Wie gebruikt wat">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-09c5dd8601ea49118e58eb783913de1f"
+      textPosition="1">
+    <bounds
+        x="358"
+        y="209"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-63ddf08c06954bd2af7e3b500be014ec.xml#id-63ddf08c06954bd2af7e3b500be014ec"/>
+  </children>
+</archimate:ArchimateDiagramModel>
