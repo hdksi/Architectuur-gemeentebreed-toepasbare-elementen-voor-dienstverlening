@@ -1,0 +1,50 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New ArchiMate View"
+    id="id-8f20a91a3ed74f0d813ef05ed97a31cf">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-31aac7655ed0476a9390b7e814ee1215"
+      name="Europees"
+      textAlignment="1">
+    <bounds
+        x="1312"
+        y="1177"
+        width="312"
+        height="288"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-9ebf32b75dc6408cb362607300a40052"
+        name="Landelijk"
+        textAlignment="1">
+      <bounds
+          x="21"
+          y="32"
+          width="265"
+          height="233"/>
+      <children
+          xsi:type="archimate:DiagramModelGroup"
+          id="id-8bf3d313f1d44c46b638f5abdef2f0c6"
+          name="Gemeenten collectief"
+          textAlignment="1">
+        <bounds
+            x="24"
+            y="32"
+            width="217"
+            height="177"/>
+        <children
+            xsi:type="archimate:DiagramModelGroup"
+            id="id-13d1b000700b43a2bc071e744c2e6fcf"
+            name="Gemeente individueel"
+            textAlignment="1">
+          <bounds
+              x="24"
+              y="32"
+              width="169"
+              height="121"/>
+        </children>
+      </children>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

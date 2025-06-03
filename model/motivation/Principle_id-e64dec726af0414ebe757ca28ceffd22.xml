@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deze architectuur modelleert geen componenten want we kennen de registergrenzen nog niet "
+    id="id-e64dec726af0414ebe757ca28ceffd22"
+    documentation="Verwervingsstrategie is niet aan ons."/>

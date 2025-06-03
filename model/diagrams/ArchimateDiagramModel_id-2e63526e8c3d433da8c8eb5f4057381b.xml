@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitgangspunten"
+    id="id-2e63526e8c3d433da8c8eb5f4057381b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-803b9ba325d94c3ba44ef921b0a2f45f"
+      textPosition="1">
+    <bounds
+        x="169"
+        y="133"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-e64dec726af0414ebe757ca28ceffd22.xml#id-e64dec726af0414ebe757ca28ceffd22"/>
+  </children>
+</archimate:ArchimateDiagramModel>
