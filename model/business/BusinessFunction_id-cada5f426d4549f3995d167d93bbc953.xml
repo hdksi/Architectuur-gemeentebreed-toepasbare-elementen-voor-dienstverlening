@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieobjecten publicatie"
+    id="id-cada5f426d4549f3995d167d93bbc953"
+    documentation="Het actief aan het publiek beschikbaarstellen van informatieobjecten">
+  <properties
+      key="Toelichting"
+      value="Bijv. door via zelf in te geven zoekcriteria objecten te kunnen opvragen en evt. te downloaden"/>
+  <properties
+      key="Object ID"
+      value="42d32f1f-d1fe-4fb0-acff-2ff8f6bf132b"/>
+</archimate:BusinessFunction>
