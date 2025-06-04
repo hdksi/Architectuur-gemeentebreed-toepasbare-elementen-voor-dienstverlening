@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="krijgt vorm in"
+    id="id-b91b67bc549c4c9ebd3e81abbc161175"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-930903f2abcd4f0d8286753f21dc371c.xml#id-930903f2abcd4f0d8286753f21dc371c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-9bd752c72d7f420fadcc94e6a28f2bdc.xml#id-9bd752c72d7f420fadcc94e6a28f2bdc"/>
+</archimate:AssociationRelationship>
