@@ -76,8 +76,8 @@
       textAlignment="1"
       content="behoefte aan standaardisatie procesverloop">
     <bounds
-        x="840"
-        y="537"
+        x="648"
+        y="540"
         width="185"
         height="80"/>
   </children>
@@ -99,8 +99,8 @@
       id="id-c93b77cfe24540109b98676bffa83897"
       textPosition="1">
     <bounds
-        x="840"
-        y="640"
+        x="660"
+        y="624"
         width="129"
         height="81"/>
     <archimateElement
@@ -113,8 +113,8 @@
       name="Types"
       textAlignment="1">
     <bounds
-        x="480"
-        y="96"
+        x="96"
+        y="120"
         width="417"
         height="265"/>
     <children
@@ -184,8 +184,8 @@
       name="Instanties"
       textAlignment="1">
     <bounds
-        x="480"
-        y="424"
+        x="100"
+        y="432"
         width="409"
         height="273"/>
     <children
