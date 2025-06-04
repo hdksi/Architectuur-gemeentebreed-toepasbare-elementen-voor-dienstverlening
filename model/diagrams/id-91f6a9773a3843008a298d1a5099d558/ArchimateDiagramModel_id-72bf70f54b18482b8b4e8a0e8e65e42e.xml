@@ -9,15 +9,6 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-23b46029c8f94e078a6c98982e7f7807"
-        source="id-59f1a5a53c65404ca7216dbb865d122d"
-        target="id-9d269079f44048599d15f3a28b8a8200">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-acad5fde1a364c0882dd96283e49d2aa.xml#id-acad5fde1a364c0882dd96283e49d2aa"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-fdf5342522534c86b86cd48c35400f65"
         source="id-59f1a5a53c65404ca7216dbb865d122d"
         target="id-8e1f2422edb24943b6a587065c709255">
@@ -70,14 +61,23 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-ad09f81754c34ee68f5755f2aeab9685.xml#id-ad09f81754c34ee68f5755f2aeab9685"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-23b46029c8f94e078a6c98982e7f7807"
+        source="id-59f1a5a53c65404ca7216dbb865d122d"
+        target="id-9d269079f44048599d15f3a28b8a8200">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-e7da05411fff448aa7d79c009a132314.xml#id-e7da05411fff448aa7d79c009a132314"/>
+    </sourceConnections>
     <bounds
         x="24"
         y="24"
         width="129"
         height="81"/>
     <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-cbd4f839d0884167879477a96a577623.xml#id-cbd4f839d0884167879477a96a577623"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-8feef222cacf4762a2fdc1ec347094da.xml#id-8feef222cacf4762a2fdc1ec347094da"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -90,8 +90,8 @@
         width="129"
         height="81"/>
     <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-b4cf9de4e0f8409bbc7615cb12befba0.xml#id-b4cf9de4e0f8409bbc7615cb12befba0"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-c8cd7441a028424388231b35814458f6.xml#id-c8cd7441a028424388231b35814458f6"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

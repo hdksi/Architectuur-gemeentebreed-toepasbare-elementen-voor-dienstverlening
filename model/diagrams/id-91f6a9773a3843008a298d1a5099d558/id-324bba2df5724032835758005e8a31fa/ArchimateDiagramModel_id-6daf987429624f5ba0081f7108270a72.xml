@@ -36,8 +36,8 @@
         width="129"
         height="81"/>
     <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-811ec9de2c8b4037bdd0738230a253a4.xml#id-811ec9de2c8b4037bdd0738230a253a4"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-8c37f31c6340483eba3ad85d7683a421.xml#id-8c37f31c6340483eba3ad85d7683a421"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -58,7 +58,7 @@
         width="129"
         height="81"/>
     <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-f6626fd0dab5440faf19a9a4b242bfd7.xml#id-f6626fd0dab5440faf19a9a4b242bfd7"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-fd1ae97f54494af38d0b86945cd53b5a.xml#id-fd1ae97f54494af38d0b86945cd53b5a"/>
   </children>
 </archimate:ArchimateDiagramModel>
