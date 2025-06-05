@@ -250,6 +250,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d5e6982ff85e4a35bfa31d9d0de53b32"
+        textPosition="2"
         source="id-7578b851a2714e1397a0afbd6210554b"
         target="id-d8611adea7194defb83b3ba51a4473c2">
       <archimateRelationship
