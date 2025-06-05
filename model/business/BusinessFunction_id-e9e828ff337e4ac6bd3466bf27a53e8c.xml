@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formatieplanning"
+    id="id-e9e828ff337e4ac6bd3466bf27a53e8c"
+    documentation="Het vaststellen welke budgetten en formatieplaatsen beschikbaar zijn voor organisatorische eenheden.">
+  <properties
+      key="Object ID"
+      value="c5386283-a205-4dcc-8fc2-86eacf506f92"/>
+</archimate:BusinessFunction>
