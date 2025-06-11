@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigiD authenticatieservice "
+    id="id-037d1b81215d470b8e6bc2f995c3ebd5"
+    documentation="Applicatieservice voor het authenticeren van burgers">
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke service"/>
+  <properties
+      key="Object ID"
+      value="46ed8e76-5f3d-4f34-8a8b-844c67fb6be4"/>
+</archimate:ApplicationService>

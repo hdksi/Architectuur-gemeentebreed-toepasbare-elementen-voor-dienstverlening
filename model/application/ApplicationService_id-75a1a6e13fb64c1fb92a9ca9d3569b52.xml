@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eHerkenning authenticatieservice"
+    id="id-75a1a6e13fb64c1fb92a9ca9d3569b52"
+    documentation="Landelijk systeem voor authenticatie van bedrijven inclusief bijbehorend machtigingen register.">
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke service"/>
+  <properties
+      key="Object ID"
+      value="33198f69-6d22-4ea3-9744-ed9b920a9ee6"/>
+</archimate:ApplicationService>

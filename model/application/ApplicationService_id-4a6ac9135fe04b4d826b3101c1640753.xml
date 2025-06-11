@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren gebruikers"
+    id="id-4a6ac9135fe04b4d826b3101c1640753"
+    documentation="Registreren en deregistreren van gebruikers, identificeren van gebruikers (identity management)">
+  <properties
+      key="Object ID"
+      value="81efe2f1-70e2-11e5-1099-005056a83192"/>
+</archimate:ApplicationService>
