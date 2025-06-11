@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voorwaardelijk..."
+    id="id-76b6a2fb5d1048e684059cc8a96ab138"
+    documentation="...indien van processtap voor inwoners en ondernemers  begrijpelijke statussen af te leiden zijn. Anders translatiecompont nodig"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-53f47a2463a542b091837adcca27fbc4.xml#id-53f47a2463a542b091837adcca27fbc4"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-599a835c00e84655904383947b3c02db.xml#id-599a835c00e84655904383947b3c02db"/>
+</archimate:AssociationRelationship>

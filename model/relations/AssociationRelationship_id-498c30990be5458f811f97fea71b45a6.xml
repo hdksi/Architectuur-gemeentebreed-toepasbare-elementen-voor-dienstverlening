@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is laatst bereikte status van afgelopen zaak?"
+    id="id-498c30990be5458f811f97fea71b45a6"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2fc8fc2ff1494c1a990e0d1142620883.xml#id-2fc8fc2ff1494c1a990e0d1142620883"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-53f47a2463a542b091837adcca27fbc4.xml#id-53f47a2463a542b091837adcca27fbc4"/>
+</archimate:AssociationRelationship>
