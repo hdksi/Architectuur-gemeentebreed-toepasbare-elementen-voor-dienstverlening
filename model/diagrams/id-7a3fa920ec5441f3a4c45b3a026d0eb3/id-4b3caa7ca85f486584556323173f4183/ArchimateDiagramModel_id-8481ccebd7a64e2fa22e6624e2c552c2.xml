@@ -9,8 +9,8 @@
       targetConnections="id-a69436d3efdd4942973bc0ad0d14a96d id-326373fad84b4424a2d3f0ae0452df3d"
       textPosition="1">
     <bounds
-        x="228"
-        y="444"
+        x="204"
+        y="24"
         width="1058"
         height="85"/>
     <archimateElement
@@ -32,8 +32,8 @@
           href="ServingRelationship_id-6643934750284986865bb11a48cda85d.xml#id-6643934750284986865bb11a48cda85d"/>
     </sourceConnections>
     <bounds
-        x="697"
-        y="992"
+        x="673"
+        y="524"
         width="129"
         height="81"/>
     <archimateElement
@@ -55,8 +55,8 @@
           href="ServingRelationship_id-ac3b83ff4bb64b4aaa2e26ce83d6e938.xml#id-ac3b83ff4bb64b4aaa2e26ce83d6e938"/>
     </sourceConnections>
     <bounds
-        x="1004"
-        y="992"
+        x="980"
+        y="524"
         width="129"
         height="81"/>
     <archimateElement
@@ -78,8 +78,8 @@
           href="ServingRelationship_id-616ec71e1a964065b82441c038ce90f3.xml#id-616ec71e1a964065b82441c038ce90f3"/>
     </sourceConnections>
     <bounds
-        x="1157"
-        y="992"
+        x="1133"
+        y="524"
         width="129"
         height="81"/>
     <archimateElement
@@ -101,8 +101,8 @@
           href="ServingRelationship_id-cee4b50065c440739de532c6062d0fa6.xml#id-cee4b50065c440739de532c6062d0fa6"/>
     </sourceConnections>
     <bounds
-        x="849"
-        y="992"
+        x="825"
+        y="524"
         width="129"
         height="81"/>
     <archimateElement
@@ -124,8 +124,8 @@
           href="ServingRelationship_id-91aacc231fdb427183b83c68fd8c6bfd.xml#id-91aacc231fdb427183b83c68fd8c6bfd"/>
     </sourceConnections>
     <bounds
-        x="233"
-        y="992"
+        x="209"
+        y="524"
         width="129"
         height="81"/>
     <archimateElement
@@ -147,8 +147,8 @@
           href="ServingRelationship_id-008f4b7e6ae74010a1109bbddd3b68d8.xml#id-008f4b7e6ae74010a1109bbddd3b68d8"/>
     </sourceConnections>
     <bounds
-        x="537"
-        y="992"
+        x="513"
+        y="524"
         width="129"
         height="81"/>
     <archimateElement
@@ -170,8 +170,8 @@
           href="ServingRelationship_id-f87bb1b9a37e4c7fadce1af3acd6e2ea.xml#id-f87bb1b9a37e4c7fadce1af3acd6e2ea"/>
     </sourceConnections>
     <bounds
-        x="385"
-        y="992"
+        x="361"
+        y="524"
         width="129"
         height="81"/>
     <archimateElement
@@ -201,8 +201,8 @@
           href="RealizationRelationship_id-f3384bde34fd4ea7af976a650f4a28e7.xml#id-f3384bde34fd4ea7af976a650f4a28e7"/>
     </sourceConnections>
     <bounds
-        x="235"
-        y="816"
+        x="211"
+        y="360"
         width="1051"
         height="71"/>
     <archimateElement
@@ -224,8 +224,8 @@
           href="ServingRelationship_id-f4d3bb8e76094749a577593bcba63316.xml#id-f4d3bb8e76094749a577593bcba63316"/>
     </sourceConnections>
     <bounds
-        x="233"
-        y="624"
+        x="209"
+        y="192"
         width="129"
         height="81"/>
     <archimateElement
@@ -247,8 +247,8 @@
           href="ServingRelationship_id-be090f62fd0a45d8a99270a2537f3b4b.xml#id-be090f62fd0a45d8a99270a2537f3b4b"/>
     </sourceConnections>
     <bounds
-        x="394"
-        y="624"
+        x="370"
+        y="192"
         width="140"
         height="80"/>
     <archimateElement
@@ -268,8 +268,8 @@
           href="SpecializationRelationship_id-6e47a6e5fdc640e5ab6060c8958d997c.xml#id-6e47a6e5fdc640e5ab6060c8958d997c"/>
     </sourceConnections>
     <bounds
-        x="41"
-        y="744"
+        x="17"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -289,8 +289,8 @@
           href="SpecializationRelationship_id-791277c5de654bfc82d8e246256baa68.xml#id-791277c5de654bfc82d8e246256baa68"/>
     </sourceConnections>
     <bounds
-        x="41"
-        y="900"
+        x="17"
+        y="444"
         width="120"
         height="55"/>
     <archimateElement
@@ -303,8 +303,8 @@
       name="Gegevens"
       textAlignment="1">
     <bounds
-        x="199"
-        y="1128"
+        x="175"
+        y="660"
         width="1116"
         height="276"/>
     <children
