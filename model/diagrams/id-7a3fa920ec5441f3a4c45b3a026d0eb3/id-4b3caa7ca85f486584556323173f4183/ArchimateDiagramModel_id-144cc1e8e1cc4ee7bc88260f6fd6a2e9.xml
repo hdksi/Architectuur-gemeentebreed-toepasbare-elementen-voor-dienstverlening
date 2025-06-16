@@ -386,20 +386,6 @@
         height="288"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-35554b51dbc2403b838ddcc92a18504e"
-        targetConnections="id-adcf9c9cdc3d4b8d8529685b593a4540"
-        textPosition="1">
-      <bounds
-          x="624"
-          y="192"
-          width="129"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:DataObject"
-          href="DataObject_id-89d9db25ea35411c9a8002630bb3860f.xml#id-89d9db25ea35411c9a8002630bb3860f"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ff3cc25887e440e1b9bea8845ea06c93"
         targetConnections="id-fc23073a7c3f41a9bb3a1e55737c91ba"
         textPosition="1">
@@ -423,15 +409,6 @@
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-fc45fe94d1c2481eb8d530973ec8cd0f.xml#id-fc45fe94d1c2481eb8d530973ec8cd0f"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-adcf9c9cdc3d4b8d8529685b593a4540"
-          source="id-e4673e1f1a394216aa891b5b48e67215"
-          target="id-35554b51dbc2403b838ddcc92a18504e">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-936ab4c1d2c44ce2bd9ee4be31585a6e.xml#id-936ab4c1d2c44ce2bd9ee4be31585a6e"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -541,5 +518,16 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-e8c3426785bb43ba8e554e0820cbf3a3.xml#id-e8c3426785bb43ba8e554e0820cbf3a3"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e00f36ac5b2341c592049281d4f5e2f6"
+      textAlignment="1"
+      content="Hier ontbreekt een component. Is dit een profielservice?">
+    <bounds
+        x="540"
+        y="444"
+        width="277"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
