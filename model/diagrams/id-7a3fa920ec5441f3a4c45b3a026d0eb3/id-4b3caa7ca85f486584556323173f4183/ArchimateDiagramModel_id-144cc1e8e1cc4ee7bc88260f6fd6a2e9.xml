@@ -402,17 +402,27 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-14238722c0d343e689acc6b59e3c599c.xml#id-14238722c0d343e689acc6b59e3c599c"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-260ec581e46c456585276316e606242e"
-      name="Procesondersteunenden diensten"
-      textAlignment="1">
-    <bounds
-        x="24"
-        y="24"
-        width="1728"
-        height="504"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c96bc832d89a4aa9a2c49113a92c4be1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3a7879217f204d9abab3cd32509f5f70"
+          source="id-c96bc832d89a4aa9a2c49113a92c4be1"
+          target="id-c20ca2c286c0458abebb24ac0610ad61">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-2fe3f4aae20348ee988f4cf1aff1cd58.xml#id-2fe3f4aae20348ee988f4cf1aff1cd58"/>
+      </sourceConnections>
+      <bounds
+          x="1428"
+          y="216"
+          width="120"
+          height="72"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-2257510a036c4531a29deba7cb99f53c.xml#id-2257510a036c4531a29deba7cb99f53c"/>
+    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c20ca2c286c0458abebb24ac0610ad61"
@@ -428,35 +438,25 @@
             href="ServingRelationship_id-ba0a00db57ad43db974a9475ea3486dc.xml#id-ba0a00db57ad43db974a9475ea3486dc"/>
       </sourceConnections>
       <bounds
-          x="1428"
-          y="240"
+          x="1423"
+          y="48"
           width="129"
           height="81"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-9005c015394249808c3166d6fd93b83b.xml#id-9005c015394249808c3166d6fd93b83b"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c96bc832d89a4aa9a2c49113a92c4be1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-3a7879217f204d9abab3cd32509f5f70"
-          source="id-c96bc832d89a4aa9a2c49113a92c4be1"
-          target="id-c20ca2c286c0458abebb24ac0610ad61">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-2fe3f4aae20348ee988f4cf1aff1cd58.xml#id-2fe3f4aae20348ee988f4cf1aff1cd58"/>
-      </sourceConnections>
-      <bounds
-          x="1433"
-          y="408"
-          width="120"
-          height="72"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-2257510a036c4531a29deba7cb99f53c.xml#id-2257510a036c4531a29deba7cb99f53c"/>
-    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-260ec581e46c456585276316e606242e"
+      name="Procesondersteunenden diensten"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="24"
+        width="1728"
+        height="504"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c2a12adc8c8c455fb7217c5ea9afa2a3"
