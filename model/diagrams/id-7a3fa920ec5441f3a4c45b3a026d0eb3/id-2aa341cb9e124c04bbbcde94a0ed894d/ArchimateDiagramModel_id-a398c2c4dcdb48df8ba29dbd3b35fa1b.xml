@@ -8,8 +8,8 @@
       id="id-edb6c0a3346649308e3a8dedc5673aae"
       textPosition="1">
     <bounds
-        x="426"
-        y="351"
+        x="132"
+        y="48"
         width="129"
         height="81"/>
     <archimateElement
@@ -22,8 +22,8 @@
       name="Procesgeoriënteerd"
       textAlignment="1">
     <bounds
-        x="358"
-        y="696"
+        x="120"
+        y="236"
         width="2265"
         height="273"/>
     <children
@@ -57,7 +57,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-979aa0011ecf43a1b36cdf24c9dbea2d"
-        targetConnections="id-1acdeb1a161d4f43b7b69764263a99ba id-4469892844ca40d6bcee370071dd9d0e id-6858418e292142169944807172d5bc0f id-e9a365adce74446bb02c19299f57e272 id-f437515ed7144a8eb425f85f02db7c40 id-e04b55ddd5dc410c8fd36461bc8841d8 id-d47f91009a414cae90267d88205f9b5f id-238199dccc7c40619ce68661fbf726c3 id-5806ea3cca2e4cccad89de7a66c84212 id-f6e6a6113a20405b8b8b5c40d458aae7 id-60e30b458ee7457787792e8f663f5e45"
+        targetConnections="id-1acdeb1a161d4f43b7b69764263a99ba id-4469892844ca40d6bcee370071dd9d0e id-6858418e292142169944807172d5bc0f id-f437515ed7144a8eb425f85f02db7c40 id-e04b55ddd5dc410c8fd36461bc8841d8 id-d47f91009a414cae90267d88205f9b5f id-238199dccc7c40619ce68661fbf726c3 id-5806ea3cca2e4cccad89de7a66c84212 id-f6e6a6113a20405b8b8b5c40d458aae7 id-60e30b458ee7457787792e8f663f5e45 id-e9a365adce74446bb02c19299f57e272"
         textPosition="1">
       <bounds
           x="512"
@@ -177,8 +177,8 @@
       name="Nuts"
       textAlignment="1">
     <bounds
-        x="358"
-        y="992"
+        x="120"
+        y="532"
         width="2265"
         height="157"/>
     <children
@@ -316,8 +316,8 @@
       name="Registers"
       textAlignment="1">
     <bounds
-        x="358"
-        y="1168"
+        x="120"
+        y="708"
         width="2265"
         height="252"/>
     <children
@@ -614,5 +614,27 @@
           xsi:type="archimate:DataObject"
           href="DataObject_id-fe754243b98c4af18e4c8da6c41ba042.xml#id-fe754243b98c4af18e4c8da6c41ba042"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-5e5147527a7a4cc0bd98dae8496b0f2d"
+        textAlignment="1"
+        content="Op dit moment is de externe klanttaak niet voorzien in Klantinteracties...">
+      <bounds
+          x="1768"
+          y="144"
+          width="177"
+          height="80"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5b728f72ce394bf9b6b802bbad0167d8"
+      textAlignment="1"
+      content="en notificeer verzoeker">
+    <bounds
+        x="338"
+        y="268"
+        width="113"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

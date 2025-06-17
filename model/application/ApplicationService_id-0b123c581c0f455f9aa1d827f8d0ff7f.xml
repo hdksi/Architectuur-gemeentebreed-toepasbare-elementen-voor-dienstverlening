@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveren gebruiker"
+    id="id-0b123c581c0f455f9aa1d827f8d0ff7f"
+    documentation="Registreren en deregistreren van gebruikers, identificeren van gebruikers (identity management)">
+  <properties
+      key="Object ID"
+      value="81efe2f1-70e2-11e5-1099-005056a83192"/>
+</archimate:ApplicationService>

@@ -215,7 +215,7 @@
         x="168"
         y="385"
         width="145"
-        height="80"/>
+        height="132"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -367,10 +367,10 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;- verschil tussen product en te leveren dienst -> ontvlechten van eerder onterecht gebundelde concepten t.b. v. betere ">
     <bounds
-        x="848"
-        y="-7"
+        x="852"
+        y="-24"
         width="185"
-        height="94"/>
+        height="127"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -451,6 +451,15 @@
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-eccce1e6144b4ca58cdab15ca0abb405.xml#id-eccce1e6144b4ca58cdab15ca0abb405"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-6e7e48e97c094d5fb7765c1419ee2e81"
+          source="id-f8809bfae0ca46b69866a1a4db1d0b00"
+          target="id-de9f34777e9c4284b42b77f11f9d0828">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-f706f260e4214f13b1cb9bc610f401c7.xml#id-f706f260e4214f13b1cb9bc610f401c7"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="32"
@@ -463,7 +472,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-de9f34777e9c4284b42b77f11f9d0828"
-        targetConnections="id-69ea4734d4b447ffb9e9f720b9430a47"
+        targetConnections="id-69ea4734d4b447ffb9e9f720b9430a47 id-6e7e48e97c094d5fb7765c1419ee2e81"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -512,6 +521,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c5fdc8a458ba45c2af470e7dc1630102"
         targetConnections="id-a45d1feacdb34036869ab6c2a44455ec"
+        fillColor="#c0c0c0"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -567,9 +577,9 @@
       content="Wat we moeten uitleggen&#xD;&#xA;- ZTC is geen 'futureproof' middel voor modellering van processen ten behoeve van afhandeling. Want: standaarden als BPMN, DMN, CMMN zijn rijker en beter ondersteund.">
     <bounds
         x="1056"
-        y="-7"
+        y="-24"
         width="185"
-        height="94"/>
+        height="127"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -577,10 +587,10 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;- veel gemeenten modelleren bedrijfsprocessen niet of niet explciet. Drempel zou lager moeten worden doordat minder processen nodig zijn omdat kenmerken die onderdeel zijn van proces in dienstenlijst worden opgenomen.">
     <bounds
-        x="640"
-        y="-7"
+        x="636"
+        y="-24"
         width="185"
-        height="93"/>
+        height="127"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -588,10 +598,10 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;-  bedrijfsproces is bron voor communicatiedata richting inwoners en ondernemers.">
     <bounds
-        x="1264"
-        y="-7"
+        x="1260"
+        y="-24"
         width="185"
-        height="93"/>
+        height="127"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -827,10 +837,10 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;-  DuTo-dossier is 'bewaarprofiel'. Door 'by design' opbouwen ook te gebruiken voor inzage. Vraagstuk voor beleid.">
     <bounds
-        x="1472"
-        y="-7"
+        x="1464"
+        y="-24"
         width="185"
-        height="93"/>
+        height="127"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -943,7 +953,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-11568b6b4ee24a39b9c97cda19fb3d59"
       textAlignment="1"
-      content="resultaat is niet de laatst bereikte zaak van de afgerondde zaak">
+      content="Resultaat is niet de laatst bereikte status van de afgerondde zaak:&#xD;&#xA;status zegt iets over de toestand waarin het proces zich bevindt, resultaat zegt iets over de uitkomst. Resultaat wordt aan het eind van het proces gezet.">
     <sourceConnections
         id="id-d83c388b8eca4173a538f602c86bf12a"
         source="id-11568b6b4ee24a39b9c97cda19fb3d59"
@@ -952,6 +962,6 @@
         x="1092"
         y="328"
         width="185"
-        height="80"/>
+        height="117"/>
   </children>
 </archimate:ArchimateDiagramModel>
