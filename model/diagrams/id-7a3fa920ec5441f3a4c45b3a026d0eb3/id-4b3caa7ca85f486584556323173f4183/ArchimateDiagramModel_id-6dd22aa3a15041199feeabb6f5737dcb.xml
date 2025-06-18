@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3a. Behandelen verzoek"
-    id="id-6dd22aa3a15041199feeabb6f5737dcb">
+    id="id-6dd22aa3a15041199feeabb6f5737dcb"
+    documentation="Bespreekpunten:&#xD;&#xA;- Moeten we hier ook een uiting creeren voor de mededeling?">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-1c8e036617ab434cb14e812e47c100d0"

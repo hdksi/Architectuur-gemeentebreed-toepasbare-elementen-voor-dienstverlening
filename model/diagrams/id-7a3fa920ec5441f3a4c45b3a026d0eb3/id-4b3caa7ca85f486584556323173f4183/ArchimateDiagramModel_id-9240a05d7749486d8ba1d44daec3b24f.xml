@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Componenten per laag"
-    id="id-9240a05d7749486d8ba1d44daec3b24f">
+    id="id-9240a05d7749486d8ba1d44daec3b24f"
+    documentation="Bespreeekpunten:&#xD;&#xA;- Waar blijft KCC/KISS in het verhaal? Missen we iets in de waardeketen?">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-102924b73a2a4ff183708f37e6d6af74"
@@ -477,7 +478,8 @@
         height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-1cb2f6d84f8646608bfd254c560aedec">
+        id="id-1cb2f6d84f8646608bfd254c560aedec"
+        fillColor="#c0c0c0">
       <bounds
           x="24"
           y="36"
@@ -489,7 +491,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-f1ff416b2efb412d8034f9a7b5c53cfb">
+        id="id-f1ff416b2efb412d8034f9a7b5c53cfb"
+        fillColor="#c0c0c0">
       <bounds
           x="24"
           y="144"
@@ -501,7 +504,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-770f18b61bc8412593ff500f598449cb">
+        id="id-770f18b61bc8412593ff500f598449cb"
+        fillColor="#c0c0c0">
       <bounds
           x="168"
           y="36"
@@ -513,7 +517,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-1ce8c77ad46149a59e95a044e0fcae31">
+        id="id-1ce8c77ad46149a59e95a044e0fcae31"
+        fillColor="#c0c0c0">
       <bounds
           x="312"
           y="36"
@@ -525,7 +530,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d96c2a424c55493c930a3b814c32f47b">
+        id="id-d96c2a424c55493c930a3b814c32f47b"
+        fillColor="#c0c0c0">
       <bounds
           x="312"
           y="144"
@@ -557,6 +563,41 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-e839ac20dd4d4fe395fd0dfa49af236c.xml#id-e839ac20dd4d4fe395fd0dfa49af236c"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-e748ef2f78ce4787afd0be3c41ef9e5e"
+      name="HG niet gebruikt"
+      textAlignment="1">
+    <bounds
+        x="1476"
+        y="660"
+        width="288"
+        height="228"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2e6fa33bf151454a88589e3fc44e4de5">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-bd42357104a448d29f5f65e2b8f9cd68.xml#id-bd42357104a448d29f5f65e2b8f9cd68"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6b26d0fbbb934ce79a6c1718a3a4758b">
+      <bounds
+          x="24"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-7f83460893df49dc8a13eea450bb08e0.xml#id-7f83460893df49dc8a13eea450bb08e0"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
