@@ -32,8 +32,8 @@
         name="Registers"
         textAlignment="1">
       <bounds
-          x="286"
-          y="340"
+          x="200"
+          y="343"
           width="161"
           height="129"/>
       <children
@@ -66,8 +66,8 @@
         name="User-facing"
         textAlignment="1">
       <bounds
-          x="286"
-          y="52"
+          x="200"
+          y="55"
           width="161"
           height="129"/>
       <children
@@ -160,8 +160,8 @@
         name="Nuts"
         textAlignment="1">
       <bounds
-          x="286"
-          y="196"
+          x="200"
+          y="199"
           width="161"
           height="129"/>
       <children
@@ -223,9 +223,9 @@
       </sourceConnections>
       <bounds
           x="216"
-          y="193"
+          y="168"
           width="120"
-          height="55"/>
+          height="80"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-a0ed92477e9d434aae3b79985bf914b5.xml#id-a0ed92477e9d434aae3b79985bf914b5"/>
@@ -233,7 +233,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-29ad27d4acf64526a2ce8b85224d7777"
-        targetConnections="id-f1415fab3f464817a33a2b816cd93b38">
+        targetConnections="id-3b1f243c19d8459493fa2db8c18252ee"
+        fillColor="#c0c0c0">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-554e21a42b1a417ba9776531a5e5426d"
@@ -245,9 +246,9 @@
       </sourceConnections>
       <bounds
           x="216"
-          y="72"
+          y="48"
           width="120"
-          height="55"/>
+          height="79"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-d58c3f79a32d44f2b5976f9dd10e3b4d.xml#id-d58c3f79a32d44f2b5976f9dd10e3b4d"/>
@@ -256,20 +257,11 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d7f611aab8a64a67a12f7a28920a1c11"
         targetConnections="id-36efba1bbb0b4c45a1338586b12375c3 id-5dbf6e0f04be423c8fd58ea664c2c95e">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f1415fab3f464817a33a2b816cd93b38"
-          source="id-d7f611aab8a64a67a12f7a28920a1c11"
-          target="id-29ad27d4acf64526a2ce8b85224d7777">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-05ba9750ee244a20940ed588ef5c9727.xml#id-05ba9750ee244a20940ed588ef5c9727"/>
-      </sourceConnections>
       <bounds
           x="24"
-          y="193"
+          y="168"
           width="120"
-          height="55"/>
+          height="80"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-3a630e4a0afb4ea08cbdc5409789b3e1.xml#id-3a630e4a0afb4ea08cbdc5409789b3e1"/>
@@ -278,11 +270,29 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cf43f3f1374a4eec81c559e7c6af76f3"
         targetConnections="id-b2ead116bf8141e0ab29d141c3c50f90">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3b1f243c19d8459493fa2db8c18252ee"
+          source="id-cf43f3f1374a4eec81c559e7c6af76f3"
+          target="id-29ad27d4acf64526a2ce8b85224d7777">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-30a90f55a0ee4df6a585bc802c65b292.xml#id-30a90f55a0ee4df6a585bc802c65b292"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-1deec37c83a84cc7908cd0a1035fe9f8"
+          source="id-cf43f3f1374a4eec81c559e7c6af76f3"
+          target="id-16fe5448e1514a88a9727e761e581437">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-36e332fec9ff4902ba0d31e7eb5f5cdd.xml#id-36e332fec9ff4902ba0d31e7eb5f5cdd"/>
+      </sourceConnections>
       <bounds
-          x="420"
-          y="193"
+          x="408"
+          y="167"
           width="120"
-          height="55"/>
+          height="81"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-90f2ece64cec4b6ca018fd553e67a8d5.xml#id-90f2ece64cec4b6ca018fd553e67a8d5"/>
@@ -348,7 +358,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-16fe5448e1514a88a9727e761e581437"
-        targetConnections="id-136ef14ce6c343418fc4dfeb0e4e0bb4 id-5cbb9a5d5c9c4599864d16df844c0704 id-554e21a42b1a417ba9776531a5e5426d"
+        targetConnections="id-136ef14ce6c343418fc4dfeb0e4e0bb4 id-5cbb9a5d5c9c4599864d16df844c0704 id-554e21a42b1a417ba9776531a5e5426d id-1deec37c83a84cc7908cd0a1035fe9f8"
         textPosition="1">
       <bounds
           x="216"
@@ -392,5 +402,16 @@
         y="-168"
         width="337"
         height="168"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0e9c8e8e3f5f48b0a948c2b89e828510"
+      textAlignment="1"
+      content="Idealiter zouden we business services als gedrag naar buiten willen aanbieden om capabilities te realiseren. GEMMA kent echter geen business services en het zou grote impact hebben om dit aan te passen. Derhalve hanteren we bij de doelarchitectuur geen business services, maar business functions. Deze business functions van GEMMA zijn naar buiten gericht en goed te relateren aan business services.">
+    <bounds
+        x="749"
+        y="277"
+        width="260"
+        height="216"/>
   </children>
 </archimate:ArchimateDiagramModel>
