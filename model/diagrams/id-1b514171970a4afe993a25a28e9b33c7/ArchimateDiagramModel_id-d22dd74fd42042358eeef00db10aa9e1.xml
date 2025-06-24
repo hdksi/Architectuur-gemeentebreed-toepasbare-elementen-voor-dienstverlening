@@ -145,19 +145,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e67d18d1bfcb41538ae0902f01eb887b"
-      textPosition="1">
-    <bounds
-        x="280"
-        y="96"
-        width="129"
-        height="81"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-b293bc38c8d54bfe8f930b913b37897a.xml#id-b293bc38c8d54bfe8f930b913b37897a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-63a41639263f44bab4bf7ff1be0e7652"
       targetConnections="id-0f00aeb3697a4e5cab17afcce6e405e2"
       textPosition="1">
@@ -177,21 +164,21 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5706eb7fb5374778bf337df8b5b3b03f"
-        source="id-7eaac6a1e50d44e8b0b983c4008b74d8"
-        target="id-11d98e6a293048a39320ddfa155a88b2">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-5d4c6d7d4e47477eba61b499f97a0c73.xml#id-5d4c6d7d4e47477eba61b499f97a0c73"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0f00aeb3697a4e5cab17afcce6e405e2"
         source="id-7eaac6a1e50d44e8b0b983c4008b74d8"
         target="id-63a41639263f44bab4bf7ff1be0e7652">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-6ebfab0adae64c13bf9eba9ff9dce458.xml#id-6ebfab0adae64c13bf9eba9ff9dce458"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5706eb7fb5374778bf337df8b5b3b03f"
+        source="id-7eaac6a1e50d44e8b0b983c4008b74d8"
+        target="id-11d98e6a293048a39320ddfa155a88b2">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-5d4c6d7d4e47477eba61b499f97a0c73.xml#id-5d4c6d7d4e47477eba61b499f97a0c73"/>
     </sourceConnections>
     <bounds
         x="344"
@@ -844,32 +831,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bca119b6060f4b6a8c7160d33ef50446"
-      targetConnections="id-295ae383176f4c52bf75686519adc831 id-f90af5c521734bc8a438c57604e6919a"
-      textPosition="1">
-    <bounds
-        x="728"
-        y="622"
-        width="129"
-        height="81"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-20628b584d8c46edb432eec09fdfeda7.xml#id-20628b584d8c46edb432eec09fdfeda7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-74a2ae2218864d79b99e82775381e495"
       alpha="123"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f90af5c521734bc8a438c57604e6919a"
-        source="id-74a2ae2218864d79b99e82775381e495"
-        target="id-bca119b6060f4b6a8c7160d33ef50446">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-54d4ab5ef39c4b159485b4e4164496a1.xml#id-54d4ab5ef39c4b159485b4e4164496a1"/>
-    </sourceConnections>
     <bounds
         x="648"
         y="736"
@@ -885,15 +849,6 @@
       targetConnections="id-34e9667cebb9419a8ad2369b83a9ddca id-c9aef2fd157e4ab196b143a1370b6b2f"
       alpha="123"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-295ae383176f4c52bf75686519adc831"
-        source="id-d3f79cfd453648738c061231865c1da7"
-        target="id-bca119b6060f4b6a8c7160d33ef50446">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-e7fa120b19284d5aadbee117992f3890.xml#id-e7fa120b19284d5aadbee117992f3890"/>
-    </sourceConnections>
     <bounds
         x="808"
         y="736"

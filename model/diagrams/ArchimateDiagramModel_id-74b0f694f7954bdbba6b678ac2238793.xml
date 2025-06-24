@@ -118,8 +118,8 @@
       id="id-f5f8e71184cc425b8fdd78e19bb65186"
       textPosition="1">
     <bounds
-        x="512"
-        y="361"
+        x="624"
+        y="144"
         width="129"
         height="81"/>
     <archimateElement
@@ -132,10 +132,10 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;- verschil tussen product en te leveren dienst -> ontvlechten van eerder onterecht gebundelde concepten t.b. v. betere ">
     <bounds
-        x="720"
-        y="196"
+        x="408"
+        y="144"
         width="185"
-        height="94"/>
+        height="98"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -143,10 +143,10 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;- ZTC is geen 'futureproof' middel voor modellering van processen ten behoeve van afhandeling. Want: standaarden als BPMN, DMN, CMMN zijn rijker en beter ondersteund.">
     <bounds
-        x="928"
-        y="196"
+        x="408"
+        y="264"
         width="185"
-        height="94"/>
+        height="98"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -154,10 +154,10 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;- veel gemeenten modelleren bedrijfsprocessen niet of niet explciet. Drempel zou lager moeten worden doordat minder processen nodig zijn omdat kenmerken die onderdeel zijn van proces in dienstenlijst worden opgenomen.">
     <bounds
-        x="512"
-        y="196"
+        x="408"
+        y="24"
         width="185"
-        height="93"/>
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -165,10 +165,10 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;-  bedrijfsproces is bron voor communicatiedata richting inwoners en ondernemers.">
     <bounds
-        x="1136"
-        y="196"
+        x="408"
+        y="384"
         width="185"
-        height="93"/>
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -176,18 +176,18 @@
       textAlignment="1"
       content="Wat we moeten uitleggen&#xD;&#xA;-  DuTo-dossier is 'bewaarprofiel'. Door 'by design' opbouwen ook te gebruiken voor inzage. Vraagstuk voor beleid.">
     <bounds
-        x="1344"
-        y="196"
+        x="408"
+        y="504"
         width="185"
-        height="93"/>
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fcca39f737b843538ad6b4e4fc7e63af"
       textPosition="1">
     <bounds
-        x="512"
-        y="466"
+        x="624"
+        y="249"
         width="129"
         height="81"/>
     <archimateElement
@@ -200,18 +200,18 @@
       textAlignment="1"
       content="werkpakketten in plaats van ontwerp">
     <bounds
-        x="552"
-        y="56"
+        x="624"
+        y="24"
         width="185"
-        height="80"/>
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6e42fca4397e40d2b079a690a413b694"
       textPosition="1">
     <bounds
-        x="512"
-        y="569"
+        x="624"
+        y="352"
         width="129"
         height="81"/>
     <archimateElement
@@ -223,8 +223,8 @@
       id="id-7ecc95e25fe64d89ad6439bb8e0b6962"
       textPosition="1">
     <bounds
-        x="663"
-        y="361"
+        x="624"
+        y="768"
         width="129"
         height="81"/>
     <archimateElement
@@ -236,8 +236,8 @@
       id="id-36545c5acda2423d897c990bfcf2cbd5"
       textPosition="1">
     <bounds
-        x="512"
-        y="673"
+        x="624"
+        y="456"
         width="129"
         height="81"/>
     <archimateElement
@@ -249,8 +249,8 @@
       id="id-edba7d585ded45729ce5526451ba9e5b"
       textPosition="1">
     <bounds
-        x="512"
-        y="777"
+        x="624"
+        y="560"
         width="129"
         height="81"/>
     <archimateElement
@@ -262,12 +262,34 @@
       id="id-9c20c90a69604cb88e075cb1d0be5fa4"
       textPosition="1">
     <bounds
-        x="512"
-        y="881"
+        x="624"
+        y="664"
         width="129"
         height="81"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-64b09250e57447578b496ae0dec8831b.xml#id-64b09250e57447578b496ae0dec8831b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7fdf195bafa9442cb1ba3539cdb188d7"
+      textAlignment="1"
+      content="Wat we moeten uitleggen&#xD;&#xA;-  Standaardisatieproces moet meer op basis van co-creatie.">
+    <bounds
+        x="408"
+        y="624"
+        width="185"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0ac85ecf20684edba62f25716e0a85cc"
+      textAlignment="1"
+      content="Wat we moeten uitleggen&#xD;&#xA;-  We gaan ervan uit dat gemeenten hun eigen processen inrichten, maar willen hergebruik wel bevorderen ">
+    <bounds
+        x="408"
+        y="744"
+        width="185"
+        height="97"/>
   </children>
 </archimate:ArchimateDiagramModel>
