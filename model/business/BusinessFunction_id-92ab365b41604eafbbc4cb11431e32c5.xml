@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorwaardentoetsing"
+    id="id-92ab365b41604eafbbc4cb11431e32c5"
+    documentation="Het toetsen of aan alle voorwaarden is voldaan om een aanvraag te kunnen afhandelen">
+  <properties
+      key="Object ID"
+      value="eace2517-91c5-43f9-82d4-89f9ff834ce3"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren en delen van documenten"
+    id="id-b2946bd4794f4d4e9a3b531c6af8ab84"
+    documentation="Applicatieservice voor het registreren en delen van documenten">
+  <properties
+      key="Object ID"
+      value="5108d100-70d7-11e5-1099-005056a83192"/>
+</archimate:ApplicationService>

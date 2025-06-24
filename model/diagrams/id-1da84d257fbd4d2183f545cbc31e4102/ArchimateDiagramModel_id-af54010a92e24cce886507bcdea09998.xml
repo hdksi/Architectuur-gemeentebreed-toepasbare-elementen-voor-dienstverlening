@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e59dbccacda94df19635d4e28c21a25c"
-      targetConnections="id-02c03202330d4d4c9a3b901a55cba88f id-c71b5472f33d4cec990b334f7fcfb69a id-e0630a2c260a417cb6c55cf906ab6169 id-b25054ca80ea425da55951043cbbd1c6 id-c2794b6f620040b88ffffda072ae5f58 id-4ceaf88c308f43ec824b9730e23536b3 id-30906c4469f0426e9443c923bc19b48b id-ba76b25e7edf4e2498893552a0cd285d"
+      targetConnections="id-02c03202330d4d4c9a3b901a55cba88f id-e0630a2c260a417cb6c55cf906ab6169 id-b25054ca80ea425da55951043cbbd1c6 id-c2794b6f620040b88ffffda072ae5f58 id-4ceaf88c308f43ec824b9730e23536b3 id-ba76b25e7edf4e2498893552a0cd285d"
       textPosition="1">
     <bounds
         x="20"
@@ -43,15 +43,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3c94b88781014163bfee98084d380e2f"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c71b5472f33d4cec990b334f7fcfb69a"
-        source="id-3c94b88781014163bfee98084d380e2f"
-        target="id-e59dbccacda94df19635d4e28c21a25c">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-42c29b3aa76c4c308cb3a240db9cb5c4.xml#id-42c29b3aa76c4c308cb3a240db9cb5c4"/>
-    </sourceConnections>
     <bounds
         x="170"
         y="100"
@@ -153,15 +144,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-14cdbfc999f84acca7863cefbfe5df7e"
       textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-30906c4469f0426e9443c923bc19b48b"
-        source="id-14cdbfc999f84acca7863cefbfe5df7e"
-        target="id-e59dbccacda94df19635d4e28c21a25c">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-88a784d5d4744c0cac945196c78dc34f.xml#id-88a784d5d4744c0cac945196c78dc34f"/>
-    </sourceConnections>
     <bounds
         x="170"
         y="500"

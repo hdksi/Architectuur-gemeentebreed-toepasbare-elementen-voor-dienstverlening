@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indiening c.q. wijziging aanvraag"
+    id="id-b128e1319d19494fbba7f8e841daae15"
+    documentation="Het indienen respectievelijk wijzigen van een aanvraag.">
+  <properties
+      key="Object ID"
+      value="24c15ba5-f3ca-4daa-b95d-1353241f6dee"/>
+</archimate:BusinessFunction>

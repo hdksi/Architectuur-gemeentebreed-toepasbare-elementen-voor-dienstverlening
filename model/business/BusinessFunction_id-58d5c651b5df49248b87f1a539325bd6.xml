@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Output archivering"
+    id="id-58d5c651b5df49248b87f1a539325bd6"
+    documentation="Het archiveren van geleverde producten en/of bijbehorende metagegevens">
+  <properties
+      key="Toelichting"
+      value="Bijv. het archiveren van een elektronisch document dat naar een klant is verzonden (bijv. via email of berichtenbox, of (na inscannen) van papieren brief."/>
+  <properties
+      key="Object ID"
+      value="9fa10230-1891-46d9-af14-ae11f339c17b"/>
+</archimate:BusinessFunction>
