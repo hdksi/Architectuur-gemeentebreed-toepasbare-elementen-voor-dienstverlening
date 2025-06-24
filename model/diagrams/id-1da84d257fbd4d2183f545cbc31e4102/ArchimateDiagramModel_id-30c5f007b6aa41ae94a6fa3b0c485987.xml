@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for policy"
+    id="id-30c5f007b6aa41ae94a6fa3b0c485987">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7f8e3b2e422b40f898e9a858035f791b"
+      targetConnections="id-78f5a07b33864955ba0cc951afc2037d"
+      textPosition="1">
+    <bounds
+        x="20"
+        y="20"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-f4706fb2151b4cdfa0b087ac310fd37b.xml#id-f4706fb2151b4cdfa0b087ac310fd37b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-590912460d8e4c79bdb52a6eb33e75e3"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-78f5a07b33864955ba0cc951afc2037d"
+        source="id-590912460d8e4c79bdb52a6eb33e75e3"
+        target="id-7f8e3b2e422b40f898e9a858035f791b">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-c24bbdf5a26841f08655e363b5c96526.xml#id-c24bbdf5a26841f08655e363b5c96526"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-9e3b88039a5f48d0ba647cd34177cbf4.xml#id-9e3b88039a5f48d0ba647cd34177cbf4"/>
+  </children>
+</archimate:ArchimateDiagramModel>
