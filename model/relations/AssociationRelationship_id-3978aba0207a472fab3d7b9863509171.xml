@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="treedt op als"
+    id="id-3978aba0207a472fab3d7b9863509171"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d3195fa76cb34c7dbe0d6062917e68ac.xml#id-d3195fa76cb34c7dbe0d6062917e68ac"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c03d0603f7694e758cb56eb70833e89c.xml#id-c03d0603f7694e758cb56eb70833e89c"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for medewerker"
+    id="id-4c6e7bf4fc65462782f76843fddb9daf">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ed705cd559ad42d480f7ab4cbefba05c"
+      targetConnections="id-f0ac8720c4b84bdf842905468ebfdc94"
+      textPosition="1">
+    <bounds
+        x="20"
+        y="20"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-4e9e28dce61d4638a93ef1a1f5a3a8e0.xml#id-4e9e28dce61d4638a93ef1a1f5a3a8e0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2df7636b1a9b40c98007c15c18c9f219"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f0ac8720c4b84bdf842905468ebfdc94"
+        source="id-2df7636b1a9b40c98007c15c18c9f219"
+        target="id-ed705cd559ad42d480f7ab4cbefba05c">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-b7680c4186a6450ba0e5f43118a799fe.xml#id-b7680c4186a6450ba0e5f43118a799fe"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-4b1645746f81434aa1fe65d17d2c39b6.xml#id-4b1645746f81434aa1fe65d17d2c39b6"/>
+  </children>
+</archimate:ArchimateDiagramModel>

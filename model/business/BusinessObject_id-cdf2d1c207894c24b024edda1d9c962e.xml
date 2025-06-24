@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="verzoek"
-    id="id-cdf2d1c207894c24b024edda1d9c962e"/>
+    id="id-cdf2d1c207894c24b024edda1d9c962e"
+    documentation="Een verzoek iets te doen"/>

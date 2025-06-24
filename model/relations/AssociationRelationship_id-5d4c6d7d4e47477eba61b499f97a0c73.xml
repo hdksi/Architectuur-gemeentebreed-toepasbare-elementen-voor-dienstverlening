@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="wordt behandeld in"
+    name="kan worden behandeld in"
     id="id-5d4c6d7d4e47477eba61b499f97a0c73"
     directed="true">
   <source
