@@ -688,7 +688,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ee453dd2b33143f7b28bb4c187e75387"
-      targetConnections="id-7626fbfe3bc04b08b2caa51fb3edba55"
+      targetConnections="id-7626fbfe3bc04b08b2caa51fb3edba55 id-28d7b25876b14045b1e6234c243ceef6"
       textPosition="1">
     <bounds
         x="1448"
@@ -787,7 +787,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-503f1ee2df5f494f91e897d9e623e4b9"
-      targetConnections="id-edf382e57be246ed98381fb4560faaf9"
+      targetConnections="id-edf382e57be246ed98381fb4560faaf9 id-50260996cda24e128f158787d6243cf5"
       textPosition="1">
     <bounds
         x="1144"
@@ -832,7 +832,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7b758124f9bb4f72894c0955a00d7688"
-      targetConnections="id-33b62f9d859d4c29ba86473491414606"
+      targetConnections="id-33b62f9d859d4c29ba86473491414606 id-3d10708cb51a48f0ab8c085bbf667642"
       textPosition="1">
     <bounds
         x="1296"
@@ -873,5 +873,28 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-5bac1ab8b588416e8aca46e5c356ea5e.xml#id-5bac1ab8b588416e8aca46e5c356ea5e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c1cf9bb1a65e41c286df19bf97115098"
+      textAlignment="1"
+      content="Hugo: R'dam kiest route van splitsen uit te vragen inhoud en vorm. Eens vragen hoe ze daarnaar kijken.">
+    <sourceConnections
+        id="id-50260996cda24e128f158787d6243cf5"
+        source="id-c1cf9bb1a65e41c286df19bf97115098"
+        target="id-503f1ee2df5f494f91e897d9e623e4b9"/>
+    <sourceConnections
+        id="id-3d10708cb51a48f0ab8c085bbf667642"
+        source="id-c1cf9bb1a65e41c286df19bf97115098"
+        target="id-7b758124f9bb4f72894c0955a00d7688"/>
+    <sourceConnections
+        id="id-28d7b25876b14045b1e6234c243ceef6"
+        source="id-c1cf9bb1a65e41c286df19bf97115098"
+        target="id-ee453dd2b33143f7b28bb4c187e75387"/>
+    <bounds
+        x="1264"
+        y="1488"
+        width="193"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
