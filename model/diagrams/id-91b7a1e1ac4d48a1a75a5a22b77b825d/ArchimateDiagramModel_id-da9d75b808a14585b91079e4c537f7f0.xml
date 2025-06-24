@@ -205,4 +205,17 @@
         xsi:type="archimate:Driver"
         href="Driver_id-d4e578fa72114fb5b532fd8e22511e1c.xml#id-d4e578fa72114fb5b532fd8e22511e1c"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d3db0e3b2bec42e8848ce2302a566be4"
+      textPosition="1">
+    <bounds
+        x="231"
+        y="276"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-1a4c4cda8a75450db42407b75a0079c7.xml#id-1a4c4cda8a75450db42407b75a0079c7"/>
+  </children>
 </archimate:ArchimateDiagramModel>
