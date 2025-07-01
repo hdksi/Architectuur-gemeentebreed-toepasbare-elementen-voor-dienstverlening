@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is laatst bereikte status van afgelopen zaak?"
+    name="bij een eindstatus"
     id="id-498c30990be5458f811f97fea71b45a6"
     directed="true">
   <source

@@ -187,7 +187,7 @@
     <bounds
         x="688"
         y="126"
-        width="337"
+        width="369"
         height="473"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -301,7 +301,7 @@
             href="AssociationRelationship_id-498c30990be5458f811f97fea71b45a6.xml#id-498c30990be5458f811f97fea71b45a6"/>
       </sourceConnections>
       <bounds
-          x="184"
+          x="216"
           y="256"
           width="129"
           height="81"/>
