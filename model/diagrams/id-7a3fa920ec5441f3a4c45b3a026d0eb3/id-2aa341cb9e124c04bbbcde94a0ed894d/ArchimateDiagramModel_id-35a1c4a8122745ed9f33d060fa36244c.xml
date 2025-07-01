@@ -46,7 +46,7 @@
       textPosition="1">
     <bounds
         x="976"
-        y="272"
+        y="536"
         width="129"
         height="81"/>
     <archimateElement
@@ -99,8 +99,8 @@
       textAlignment="1"
       content="Eenmalig geïllustreerd">
     <bounds
-        x="976"
-        y="320"
+        x="1632"
+        y="581"
         width="145"
         height="80"/>
   </children>
@@ -654,9 +654,9 @@
       targetConnections="id-878f48c77e834f81825fbeb585ac620d"
       textPosition="1">
     <bounds
-        x="56"
+        x="72"
         y="952"
-        width="2561"
+        width="2601"
         height="81"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -677,9 +677,9 @@
           href="ServingRelationship_id-36aee91857eb43208b15badb1929f7df.xml#id-36aee91857eb43208b15badb1929f7df"/>
     </sourceConnections>
     <bounds
-        x="56"
+        x="72"
         y="1056"
-        width="2561"
+        width="2601"
         height="81"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
