@@ -10,9 +10,9 @@
       targetConnections="id-878f48c77e834f81825fbeb585ac620d"
       textPosition="1">
     <bounds
-        x="312"
+        x="304"
         y="968"
-        width="2521"
+        width="2529"
         height="81"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
