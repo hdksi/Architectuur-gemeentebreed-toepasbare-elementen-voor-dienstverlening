@@ -12,8 +12,8 @@
       fillColor="#ffffcc"
       textPosition="1">
     <bounds
-        x="640"
-        y="384"
+        x="160"
+        y="152"
         width="129"
         height="81"/>
     <archimateElement
@@ -43,8 +43,8 @@
           href="ServingRelationship_id-81b4e285820f46bea0c5b2de161ea2e4.xml#id-81b4e285820f46bea0c5b2de161ea2e4"/>
     </sourceConnections>
     <bounds
-        x="640"
-        y="608"
+        x="160"
+        y="376"
         width="129"
         height="81"/>
     <archimateElement
@@ -57,8 +57,8 @@
       targetConnections="id-2c635c221f6747c492c93d4698ea33fe"
       textPosition="1">
     <bounds
-        x="640"
-        y="720"
+        x="160"
+        y="488"
         width="129"
         height="81"/>
     <archimateElement
@@ -80,8 +80,8 @@
           href="ServingRelationship_id-f5960302629a4f29834c2e93f8e23fa9.xml#id-f5960302629a4f29834c2e93f8e23fa9"/>
     </sourceConnections>
     <bounds
-        x="640"
-        y="496"
+        x="160"
+        y="264"
         width="129"
         height="81"/>
     <archimateElement

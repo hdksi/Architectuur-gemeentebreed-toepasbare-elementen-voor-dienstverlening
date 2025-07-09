@@ -11,7 +11,7 @@
     <bounds
         x="136"
         y="104"
-        width="1313"
+        width="1945"
         height="249"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -163,7 +163,7 @@
     <bounds
         x="136"
         y="376"
-        width="1313"
+        width="1945"
         height="129"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -288,12 +288,12 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-27a534cb6d4f4aed85015f4d66b73b46"
-      name="Duurzaam te bewaren"
+      name="Duurzaam bewaren en beheren"
       textAlignment="1">
     <bounds
         x="136"
         y="528"
-        width="1313"
+        width="1945"
         height="249"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -340,7 +340,7 @@
     <bounds
         x="136"
         y="800"
-        width="1313"
+        width="1945"
         height="129"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

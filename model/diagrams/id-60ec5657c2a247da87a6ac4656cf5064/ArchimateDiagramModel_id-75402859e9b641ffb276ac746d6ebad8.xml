@@ -1,0 +1,28 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitgangspunten"
+    id="id-75402859e9b641ffb276ac746d6ebad8">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-618a7b832ef4470d8783af4c8d3685e0"
+      textAlignment="1"
+      content="- er bestaan (gesloten) vakkapplicaties&#xD;&#xA;  - we kunnen niet altijd direct bij de data&#xD;&#xA;  - we willen de data tbv specifieke doelen (inzage/informeren/DuTo) uniform ontsluiten&#xD;&#xA;  - sommige data zullen (op termijn) uit de applicaties gehaald moeten worden omdat het niet handig is ze te dupliceren (klanten, ...?)&#xD;&#xA;&#xD;&#xA;- er bestaan generieke systemen waarmee domeinspecifieke processen ingericht kunnen worden&#xD;&#xA;  - deze moeten voldoen aan de dezelfde eisen t.b.v. uniforme ontsluiting en decompositie">
+    <bounds
+        x="286"
+        y="102"
+        width="211"
+        height="291"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-77c69a7148f74475b260aaa8e227d372"
+      textAlignment="1"
+      content="- populeren van views moet (kunnen) op basis van gegevens die binnen primaire proces worden vastgelegd">
+    <bounds
+        x="536"
+        y="112"
+        width="193"
+        height="73"/>
+  </children>
+</archimate:ArchimateDiagramModel>

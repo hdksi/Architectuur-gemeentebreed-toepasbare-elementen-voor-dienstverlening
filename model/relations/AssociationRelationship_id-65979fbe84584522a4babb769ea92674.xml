@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dekking in ruimte"
+    id="id-65979fbe84584522a4babb769ea92674"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-55bae496abf54d259bba46f3bb204661.xml#id-55bae496abf54d259bba46f3bb204661"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-eacca27fc9b5491fab5555752771ee24.xml#id-eacca27fc9b5491fab5555752771ee24"/>
+</archimate:AssociationRelationship>
