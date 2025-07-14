@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvragen van een dienst"
+    id="id-b1c87a6d62ff4294bb347241eb1c76cc"
+    documentation="Applicatieservice voor het tonen van webcontent aan burgers en bedrijven.">
+  <properties
+      key="Object ID"
+      value="82802894-da88-11e1-7023-0050568a1905"/>
+</archimate:ApplicationService>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Signalen bewerking"
+    id="id-6e62f4981ce94aa495b1a31dcc94d583"
+    documentation="Ruwe signalen (voor)bewerken om ze geschikt te maken voor verdere verwerking">
+  <properties
+      key="Toelichting"
+      value="Bijv. grote hoeveelheden signalen van autonome devices die worden geclustered voordat ze bruikbaar zijn voor analyse of uitvoering"/>
+  <properties
+      key="Object ID"
+      value="f2087bf8-66a0-442d-a59b-41e70323145c"/>
+</archimate:BusinessFunction>

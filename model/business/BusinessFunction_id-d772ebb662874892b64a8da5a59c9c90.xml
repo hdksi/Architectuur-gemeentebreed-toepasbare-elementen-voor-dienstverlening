@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verstrekking rechten en plichten"
+    id="id-d772ebb662874892b64a8da5a59c9c90"
+    documentation="Het informeren van de dienstaanvrager over de bij de dienst behorende rechten en plichten.">
+  <properties
+      key="Toelichting"
+      value="Bijv.: een werkzoekende die de plicht heeft om te solliciteren en het recht heeft op een uitkering."/>
+  <properties
+      key="Object ID"
+      value="8c848610-bf5e-4bb4-a795-02c8bfacdf2c"/>
+</archimate:BusinessFunction>

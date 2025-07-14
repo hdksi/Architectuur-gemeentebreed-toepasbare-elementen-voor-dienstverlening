@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentcreatie"
+    id="id-91d8437185bf42ee8fc5d3da14a21aa1"
+    documentation="Beschrijving: Het creëren van documenten&#xA;NIEUW: Het creëren van producten">
+  <properties
+      key="Toelichting"
+      value="Bijv. het geautomatiseerd aanmaken van aanslagen"/>
+  <properties
+      key="Object ID"
+      value="6a9cc332-7ab4-4e9d-93f0-fb052c97fd85"/>
+</archimate:BusinessFunction>

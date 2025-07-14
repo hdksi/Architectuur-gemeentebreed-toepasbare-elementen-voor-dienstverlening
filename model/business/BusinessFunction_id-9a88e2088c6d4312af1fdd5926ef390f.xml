@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Producten en diensten aanvraag"
+    id="id-9a88e2088c6d4312af1fdd5926ef390f"
+    documentation="Het geven van algemene of persoonlijke informatie of advies.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Object ID"
+      value="524bf2df-191c-48a5-9a60-ab9526a38fb6"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy"
+    id="id-fac7001fe7d04661a2f1e84686def743">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1a3ae7e320c448d9a2970d32a154273a"
+      textAlignment="1"
+      content="Ik weet niet of dit een apart te modelleren aspect is. Nader te bepalen.">
+    <bounds
+        x="48"
+        y="60"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

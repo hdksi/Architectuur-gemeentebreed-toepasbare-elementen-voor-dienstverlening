@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Output-verzending"
+    id="id-e06976f208ae4c3a94428a5c4eae8f4f"
+    documentation="Het verzenden van output">
+  <properties
+      key="Toelichting"
+      value="Bijv. het verzenden van een papieren brief of een elektronisch bericht via e-mail of in de Berichtenbox @opm: was oorspronkelijk 'documentverzending'; &quot;document&quot; wordt vaak gebruikt als synoniem voor &quot;tekstdocument&quot; terwijl het gaat om output in brede zin"/>
+  <properties
+      key="Object ID"
+      value="1eeb4102-dc87-4731-9753-42dad177433a"/>
+</archimate:BusinessFunction>

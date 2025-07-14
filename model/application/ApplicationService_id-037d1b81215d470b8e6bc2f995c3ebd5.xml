@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DigiD authenticatieservice "
+    name="Authenticeren actor DigiD "
     id="id-037d1b81215d470b8e6bc2f995c3ebd5"
     documentation="Applicatieservice voor het authenticeren van burgers">
   <properties

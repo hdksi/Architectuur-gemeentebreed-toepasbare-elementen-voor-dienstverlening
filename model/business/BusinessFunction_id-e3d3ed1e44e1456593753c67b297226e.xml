@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstverlening serviceniveau meting"
+    id="id-e3d3ed1e44e1456593753c67b297226e"
+    documentation="Het meten en analyseren van de kwantiteit en kwaliteit van diensten ten opzichte van gedefinieerde service-levels">
+  <properties
+      key="Toelichting"
+      value="Bijv. het meten van wachttijden of het tellen van het aantal dienstverlening gerelateerde klachten"/>
+  <properties
+      key="Object ID"
+      value="42b3855a-1053-47ec-9229-d13bb1c536ec"/>
+</archimate:BusinessFunction>

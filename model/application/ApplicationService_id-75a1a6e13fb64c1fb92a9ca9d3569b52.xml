@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="eHerkenning authenticatieservice"
+    name="Authenticeren actor eHerkenning"
     id="id-75a1a6e13fb64c1fb92a9ca9d3569b52"
     documentation="Landelijk systeem voor authenticatie van bedrijven inclusief bijbehorend machtigingen register.">
   <properties

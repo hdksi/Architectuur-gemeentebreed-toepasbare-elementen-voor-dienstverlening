@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaal ondertekenen documenten"
+    id="id-886cc08d1a964173b385f74d4b26391c"
+    documentation="Applicatieservice voor het digitaal ondertekenen van documenten.">
+  <properties
+      key="Object ID"
+      value="b86d3928-e6f4-11e1-7023-0050568a1905"/>
+</archimate:ApplicationService>

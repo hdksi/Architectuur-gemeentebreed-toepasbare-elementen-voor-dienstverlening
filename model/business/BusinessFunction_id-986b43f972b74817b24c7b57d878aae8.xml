@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleid cocreatie (nieuw)"
+    id="id-986b43f972b74817b24c7b57d878aae8"
+    documentation="Het vragen van input en gezamenlijk formuleren van nieuw beleid">
+  <properties
+      key="Toelichting"
+      value="Bijv. via het on- en offline samen met burgers en/of bedrijven formuleren van beleid op een bepaald gebied"/>
+  <properties
+      key="Object ID"
+      value="c05b81d8-be63-4b56-adc5-4d1a721995c0"/>
+</archimate:BusinessFunction>
