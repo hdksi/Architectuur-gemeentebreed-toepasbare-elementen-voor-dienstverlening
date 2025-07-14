@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kent als archiefvormer"
+    id="id-ca8d18688d6d4c1790a26bcee646a126"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-55bae496abf54d259bba46f3bb204661.xml#id-55bae496abf54d259bba46f3bb204661"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3434cf7fdce84fd6ba3cc36fbb976df9.xml#id-3434cf7fdce84fd6ba3cc36fbb976df9"/>
+</archimate:AssociationRelationship>

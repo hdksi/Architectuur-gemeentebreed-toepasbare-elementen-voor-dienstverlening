@@ -39,10 +39,6 @@
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-e869e894cfcd4263a5c23aee1b912106.xml#id-e869e894cfcd4263a5c23aee1b912106"/>
     </sourceConnections>
-    <sourceConnections
-        id="id-2c717a8b331e4d8a81d2ac0d041d4255"
-        source="id-c1493d4e03ae4ffe8302a30efc610480"
-        target="id-d79be94cb6934a1ba8821adae394a289"/>
     <bounds
         x="323"
         y="136"
@@ -55,7 +51,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7fcb1d41550243f589cb6e589fb3b503"
-      targetConnections="id-64116ab7259b4d79b6703271110e2f12 id-8d562ec65f274037a9d182d877190676"
+      targetConnections="id-64116ab7259b4d79b6703271110e2f12"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -111,21 +107,5 @@
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-3d173955fa374ea781a28ed636c818b6.xml#id-3d173955fa374ea781a28ed636c818b6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d79be94cb6934a1ba8821adae394a289"
-      targetConnections="id-2c717a8b331e4d8a81d2ac0d041d4255"
-      textAlignment="1"
-      content="Uit elkaar halen?&#xD;&#xA;">
-    <sourceConnections
-        id="id-8d562ec65f274037a9d182d877190676"
-        source="id-d79be94cb6934a1ba8821adae394a289"
-        target="id-7fcb1d41550243f589cb6e589fb3b503"/>
-    <bounds
-        x="396"
-        y="276"
-        width="145"
-        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>

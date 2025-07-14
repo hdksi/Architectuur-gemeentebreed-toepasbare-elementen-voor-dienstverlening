@@ -1,7 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="vertegenwoordigt geen waarde voor doel archiveren of inzage..."
     id="id-ca1e093fa1f742519837c880e540d428"
     documentation="...en kan dus vervallen&#xD;&#xA;&#xD;&#xA;Terzijde:&#xD;&#xA;checklist is een criterium voor overgang naar een volgende status. Dit is een overblijfsel (relikwie) uit de tijd dat zaakgericht werken werd gebruikt voor het besturen van het afhandelproces. Dit hoort bij het bedrijfsproces en daarmee bij vakapplicaties (specifieke afhandelcomponenten) of generieke procesapplicaties (generieke ...)."
     directed="true">

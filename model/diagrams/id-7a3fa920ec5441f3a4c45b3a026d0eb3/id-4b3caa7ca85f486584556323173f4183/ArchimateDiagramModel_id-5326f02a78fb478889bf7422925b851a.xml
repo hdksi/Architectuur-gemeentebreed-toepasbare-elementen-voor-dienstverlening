@@ -155,8 +155,8 @@
       textAlignment="1"
       content="Gemeentelijke websites hebben hun eigen PDC incl. redactiefunctionaliteit.">
     <bounds
-        x="744"
-        y="-168"
+        x="992"
+        y="-296"
         width="185"
         height="80"/>
   </children>
@@ -202,8 +202,8 @@
       <bounds
           x="552"
           y="288"
-          width="120"
-          height="61"/>
+          width="129"
+          height="81"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-9f4e67b56f6d495da8779e24af1654b0.xml#id-9f4e67b56f6d495da8779e24af1654b0"/>

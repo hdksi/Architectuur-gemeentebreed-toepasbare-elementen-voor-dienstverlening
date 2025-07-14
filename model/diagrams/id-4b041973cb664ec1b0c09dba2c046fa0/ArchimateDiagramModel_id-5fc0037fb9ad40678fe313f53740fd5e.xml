@@ -14,4 +14,15 @@
         width="185"
         height="129"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c83aa912e0ac44049ed2c90c33f879ab"
+      textAlignment="1"
+      content="Patronen voor registers (a.d.h.v. producten):&#xD;&#xA;- domeinspecifiek markt&#xD;&#xA;- domeinspecifiek open&#xD;&#xA;- domeinspecifiek collectief&#xD;&#xA;- generiek collectief&#xD;&#xA;- generiek open">
+    <bounds
+        x="488"
+        y="496"
+        width="185"
+        height="121"/>
+  </children>
 </archimate:ArchimateDiagramModel>

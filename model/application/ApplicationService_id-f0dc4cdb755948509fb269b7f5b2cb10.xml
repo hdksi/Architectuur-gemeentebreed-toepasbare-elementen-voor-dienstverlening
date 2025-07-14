@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Genereren van documenten"
+    id="id-f0dc4cdb755948509fb269b7f5b2cb10"
+    documentation="Applicatieservice voor het genereren van documenten">
+  <properties
+      key="Object ID"
+      value="b83683b6-70da-11e5-1099-005056a83192"/>
+</archimate:ApplicationService>

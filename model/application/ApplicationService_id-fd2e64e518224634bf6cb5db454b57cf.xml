@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overzicht lopende zaken"
+    id="id-fd2e64e518224634bf6cb5db454b57cf"
+    documentation="Dit overzicht toont alleen de zaken die nog lopen en niet zijn afgerond.">
+  <properties
+      key="Object ID"
+      value="d741cbfe-638c-4fec-9262-32081045de6a"/>
+</archimate:ApplicationService>
