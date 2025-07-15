@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afrekening"
+    id="id-36c82a6650f647d9b0265ae32f2c28f8"
+    documentation="Het afrekenen van afgenomen producten of diensten, bijbehorende leges of andere verschuldigde bedragen">
+  <properties
+      key="Toelichting"
+      value="Bijv. het online betalen voor een aangevraagd paspoort"/>
+  <properties
+      key="Object ID"
+      value="2f045ed6-9deb-4ba6-9407-a9ab79e2bae6"/>
+</archimate:BusinessFunction>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informering"
+    name="Informering actoren"
     id="id-b95c487e746f44849baf040243177187">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -44,6 +44,25 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-c094318b665241ec8b4292da079b5c72.xml#id-c094318b665241ec8b4292da079b5c72"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-75794a7a0bc24f59b780ed7b26090352"
+        source="id-c41a77d05d764060939555712ebbcb72"
+        target="id-dc432234ca3f4f93a2018d1da4fff992">
+      <bendpoints
+          startX="72"
+          startY="-336"
+          endX="-436"
+          endY="59"/>
+      <bendpoints
+          startX="504"
+          startY="-348"
+          endX="-4"
+          endY="82"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-85f567a50bb5464cafbe67f8a7b7c2c9.xml#id-85f567a50bb5464cafbe67f8a7b7c2c9"/>
     </sourceConnections>
     <bounds
         x="36"
@@ -336,25 +355,6 @@
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-7a0638024cb2430d88fa2a36a1c85dac.xml#id-7a0638024cb2430d88fa2a36a1c85dac"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-75794a7a0bc24f59b780ed7b26090352"
-          source="id-8a5f7d5a1c284e7a8d7c5ae46829be7f"
-          target="id-dc432234ca3f4f93a2018d1da4fff992">
-        <bendpoints
-            startX="72"
-            startY="-336"
-            endX="-436"
-            endY="59"/>
-        <bendpoints
-            startX="504"
-            startY="-348"
-            endX="-4"
-            endY="82"/>
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-85f567a50bb5464cafbe67f8a7b7c2c9.xml#id-85f567a50bb5464cafbe67f8a7b7c2c9"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

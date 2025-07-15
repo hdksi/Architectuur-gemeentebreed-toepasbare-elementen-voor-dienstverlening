@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveren bevoegdheidsverklaring"
+    id="id-93e9135a7ed64fa8b6802fb06a7639b6"
+    documentation="Applicatieservice voor het authenticeren van burgers">
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke service"/>
+  <properties
+      key="Object ID"
+      value="46ed8e76-5f3d-4f34-8a8b-844c67fb6be4"/>
+</archimate:ApplicationService>

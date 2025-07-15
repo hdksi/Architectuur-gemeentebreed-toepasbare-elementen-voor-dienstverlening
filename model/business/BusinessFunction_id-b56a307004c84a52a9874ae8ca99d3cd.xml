@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waarmerking"
+    id="id-b56a307004c84a52a9874ae8ca99d3cd"
+    documentation="Het toevoegen van een waarmerk aan een document of bericht om de echtheid te bekrachtigen">
+  <properties
+      key="Toelichting"
+      value="Bijv. het toevoegen van een digitale handtekening aan documenten in PDF/A formaat"/>
+  <properties
+      key="Object ID"
+      value="b65effcb-cd9c-4c08-95a2-f6185781c5c0"/>
+</archimate:BusinessFunction>

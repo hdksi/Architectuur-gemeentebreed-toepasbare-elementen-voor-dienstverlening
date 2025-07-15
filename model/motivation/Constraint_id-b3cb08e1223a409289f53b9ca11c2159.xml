@@ -1,6 +1,6 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GDI Authenticatie koppelvlak"
+    name="NLGOV Profile for OpenID Connect"
     id="id-b3cb08e1223a409289f53b9ca11c2159"
     documentation="Specificatie van het DigiD CGI koppelvlak. Webdiensten kunnen met DigiD communiceren met behulp van de in dit document beschreven mechanismen en bijbehorende API.">
   <properties

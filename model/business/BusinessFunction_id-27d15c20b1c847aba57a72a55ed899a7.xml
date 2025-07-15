@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Openbare informering"
+    id="id-27d15c20b1c847aba57a72a55ed899a7"
+    documentation="Het voor iedereen toegankelijk openbaar informeren">
+  <properties
+      key="Toelichting"
+      value="Bijv. het publiceren van informatie op gemeentelijke website of via social media"/>
+  <properties
+      key="Object ID"
+      value="4240888f-8b62-45b3-9dcc-aca35a71e2a6"/>
+</archimate:BusinessFunction>

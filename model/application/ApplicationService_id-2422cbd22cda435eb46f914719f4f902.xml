@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wallet authenticatieservice"
+    name="Authenticeren actor Wallet"
     id="id-2422cbd22cda435eb46f914719f4f902"
     documentation="Applicatieservice voor het authenticeren van burgers">
   <properties

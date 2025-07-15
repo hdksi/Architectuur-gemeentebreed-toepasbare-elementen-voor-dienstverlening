@@ -53,18 +53,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-816b8b91ac7b4348996622048d391a4f">
-    <bounds
-        x="210"
-        y="160"
-        width="133"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-0e75674315ef48d7be259db6abf1a269.xml#id-0e75674315ef48d7be259db6abf1a269"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-21ca53665c5c429a9430430406e4f94e">
     <bounds
         x="360"

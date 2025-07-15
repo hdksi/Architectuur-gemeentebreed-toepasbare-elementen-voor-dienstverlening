@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GDI authenticatie- en vertegenwoordigingservice"
+    name="Authenticeren actor"
     id="id-49a86fe521794eef9102fe022779a97b"
     documentation="Applicatieservice voor het authenticeren van burgers">
   <properties
