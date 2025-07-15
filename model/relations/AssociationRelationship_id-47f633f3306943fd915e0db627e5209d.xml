@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gaat over"
+    id="id-47f633f3306943fd915e0db627e5209d"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-4d13566a6dcb49b5895a61c8ee897ba9.xml#id-4d13566a6dcb49b5895a61c8ee897ba9"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-17405cc49ee34144a18d7f3503abd38c.xml#id-17405cc49ee34144a18d7f3503abd38c"/>
+</archimate:AssociationRelationship>
