@@ -373,9 +373,9 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="224"
+        y="344"
         width="1040"
-        height="200"/>
+        height="80"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-fb04cab296a24d36ba655d6953114225.xml#id-fb04cab296a24d36ba655d6953114225"/>
