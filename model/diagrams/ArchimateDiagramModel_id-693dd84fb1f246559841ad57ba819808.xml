@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afwegingskader hoe in te vulling geven aan doelen"
+    id="id-693dd84fb1f246559841ad57ba819808">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8e7fb08c6acb4825b95afdecb914b4c3"
+      textAlignment="1"
+      content="- Hier relatie doelen, aspecten, behoeften, en oplossingen (data uit applicatie halen en in register stoppen, standaardiseren etc).">
+    <bounds
+        x="128"
+        y="88"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
