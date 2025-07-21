@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="trad op als actor bij"
+    id="id-53d53ff5f50c411e9de24ce0a64b3bd9"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-0ffbf54c788f4a94aefbd47062f1e31a.xml#id-0ffbf54c788f4a94aefbd47062f1e31a"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-815f1607bb6647cc92c3da3494283f9c.xml#id-815f1607bb6647cc92c3da3494283f9c"/>
+</archimate:AssociationRelationship>

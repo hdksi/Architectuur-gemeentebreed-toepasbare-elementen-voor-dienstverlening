@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ging over"
+    id="id-5772e18913384ff6a187353e218e59f1"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-e5171328e8284c129d4a4b669c3157f0.xml#id-e5171328e8284c129d4a4b669c3157f0"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-815f1607bb6647cc92c3da3494283f9c.xml#id-815f1607bb6647cc92c3da3494283f9c"/>
+</archimate:AssociationRelationship>

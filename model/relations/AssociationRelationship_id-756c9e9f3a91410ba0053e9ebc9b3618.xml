@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert"
+    id="id-756c9e9f3a91410ba0053e9ebc9b3618"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-815f1607bb6647cc92c3da3494283f9c.xml#id-815f1607bb6647cc92c3da3494283f9c"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1fd79faf2a3a42cdaa53cdec44341fc2.xml#id-1fd79faf2a3a42cdaa53cdec44341fc2"/>
+</archimate:AssociationRelationship>

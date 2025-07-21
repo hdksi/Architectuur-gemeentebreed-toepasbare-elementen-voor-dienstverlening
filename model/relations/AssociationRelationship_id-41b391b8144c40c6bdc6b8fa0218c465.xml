@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="deed ontstaan"
+    id="id-41b391b8144c40c6bdc6b8fa0218c465"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-706c3c58ea254264aeb46573713b71bf.xml#id-706c3c58ea254264aeb46573713b71bf"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b28545ce0e814364b147936d7cfca88b.xml#id-b28545ce0e814364b147936d7cfca88b"/>
+</archimate:AssociationRelationship>
