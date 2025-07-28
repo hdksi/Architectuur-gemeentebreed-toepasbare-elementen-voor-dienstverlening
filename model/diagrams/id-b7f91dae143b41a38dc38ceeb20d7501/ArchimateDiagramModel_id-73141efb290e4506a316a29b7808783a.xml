@@ -2726,8 +2726,8 @@
       id="id-3bbedfe0c9134af4903d05fe8200c8d8"
       textPosition="1">
     <bounds
-        x="2223"
-        y="816"
+        x="2208"
+        y="728"
         width="129"
         height="81"/>
     <archimateElement
@@ -2739,10 +2739,10 @@
       id="id-47164e53ce6b475794bc18431465e143"
       textPosition="1">
     <bounds
-        x="2223"
-        y="920"
+        x="2208"
+        y="832"
         width="129"
-        height="105"/>
+        height="113"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-5408f5c3bcaf4a6892da8b4335b6921e.xml#id-5408f5c3bcaf4a6892da8b4335b6921e"/>
@@ -3246,5 +3246,29 @@
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-f803aaec49a9475a9c355df6c32003c4.xml#id-f803aaec49a9475a9c355df6c32003c4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-dca05c1097c6408f852fe51d95defd2e"
+      textAlignment="1"
+      content="1) inwoners en ondernemers zijn belangrijk. Hun belangen verdienen extra aandacht (omnichannel)&#xD;&#xA;2) We moeten nu eindelijk eens voldoen aan wet en regelgeving&#xD;&#xA;3) we onderschrijven het idee dat gemeenten meer regie op hun gegevens moeten hebben. Beginnen met concepten die overal in de gemeente gebruikt worden genereren wat dit betreft de beste 'return on investment'&#xD;&#xA;4) we willen conceptuele problemen rondom zaak/product etc (ontwarren) oplossen">
+    <bounds
+        x="2551"
+        y="842"
+        width="266"
+        height="167"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-73c0d140caf34d1ebe04a9a62541ba8e"
+      textPosition="1">
+    <bounds
+        x="1080"
+        y="-80"
+        width="129"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-79140223593f4c2da4c1cc74ae81b538.xml#id-79140223593f4c2da4c1cc74ae81b538"/>
   </children>
 </archimate:ArchimateDiagramModel>
