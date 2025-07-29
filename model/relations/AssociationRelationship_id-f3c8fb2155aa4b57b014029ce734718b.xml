@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
     id="id-f3c8fb2155aa4b57b014029ce734718b"
     directed="true">
   <source

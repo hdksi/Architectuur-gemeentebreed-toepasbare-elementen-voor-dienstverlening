@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tiggert"
+    id="id-e0c762966f7943588275fb976db70506">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-1e2e485047d14848bb1626f06cf01492.xml#id-1e2e485047d14848bb1626f06cf01492"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-1e2e485047d14848bb1626f06cf01492.xml#id-1e2e485047d14848bb1626f06cf01492"/>
+</archimate:TriggeringRelationship>

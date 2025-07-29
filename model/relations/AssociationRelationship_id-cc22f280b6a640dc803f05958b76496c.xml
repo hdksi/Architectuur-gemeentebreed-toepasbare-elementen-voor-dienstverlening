@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="zijn van type"
+    id="id-cc22f280b6a640dc803f05958b76496c"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-88cfc850bf244115857998121f234e38.xml#id-88cfc850bf244115857998121f234e38"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-8f9557244e4140419eedceab9cdb3685.xml#id-8f9557244e4140419eedceab9cdb3685"/>
+</archimate:AssociationRelationship>
