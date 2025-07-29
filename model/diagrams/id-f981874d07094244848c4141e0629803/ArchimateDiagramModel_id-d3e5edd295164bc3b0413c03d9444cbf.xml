@@ -10,7 +10,7 @@
       textAlignment="1"
       fillColor="#eaecec">
     <bounds
-        x="104"
+        x="296"
         y="96"
         width="824"
         height="368"/>
@@ -757,7 +757,7 @@
       textAlignment="1"
       fillColor="#eaecec">
     <bounds
-        x="1320"
+        x="1512"
         y="96"
         width="184"
         height="368"/>
@@ -808,7 +808,7 @@
       textAlignment="1"
       fillColor="#eaecec">
     <bounds
-        x="960"
+        x="1152"
         y="96"
         width="328"
         height="368"/>
@@ -944,7 +944,7 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="1536"
+        x="96"
         y="96"
         width="168"
         height="256"/>

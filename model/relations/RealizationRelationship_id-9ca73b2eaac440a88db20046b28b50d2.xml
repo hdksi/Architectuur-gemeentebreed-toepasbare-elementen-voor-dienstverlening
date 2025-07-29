@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt geraliseerd door"
+    id="id-9ca73b2eaac440a88db20046b28b50d2">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-43e81e29929445b38ba961ddff5b306b.xml#id-43e81e29929445b38ba961ddff5b306b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e03352e4c24d4e2ab8610c02b1cc6e04.xml#id-e03352e4c24d4e2ab8610c02b1cc6e04"/>
+</archimate:RealizationRelationship>
