@@ -457,9 +457,8 @@
           target="id-13c1016d6a53418fadb58a61eb28eafe">
         <bendpoints
             startX="112"
-            startY="4"
             endX="-110"
-            endY="-96"/>
+            endY="-88"/>
         <bendpoints
             startX="112"
             startY="92"
@@ -476,7 +475,7 @@
       </sourceConnections>
       <bounds
           x="32"
-          y="37"
+          y="40"
           width="129"
           height="81"/>
       <archimateElement
@@ -1593,16 +1592,11 @@
         <bendpoints
             startX="112"
             endX="-110"
-            endY="88"/>
+            endY="96"/>
         <bendpoints
             startX="112"
             startY="-96"
             endX="-111"
-            endY="1"/>
-        <bendpoints
-            startX="136"
-            startY="-96"
-            endX="-87"
             endY="1"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"

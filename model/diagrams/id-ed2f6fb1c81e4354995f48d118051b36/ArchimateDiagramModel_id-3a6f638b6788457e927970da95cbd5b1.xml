@@ -1703,7 +1703,7 @@
           x="32"
           y="160"
           width="193"
-          height="154"/>
+          height="152"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-79939d9168ab4b88a8650a165565a98c"
@@ -1718,7 +1718,7 @@
               startX="112"
               startY="4"
               endX="-110"
-              endY="-96"/>
+              endY="-88"/>
           <bendpoints
               startX="112"
               startY="92"
